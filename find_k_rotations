@@ -1,0 +1,22 @@
+#Problem: Find the Number of Rotations in a Rotated Sorted Array
+class Solution:
+    def findKRotation(self, arr):
+        # code here
+        n=len(arr)
+        ans=float("inf")
+        index=-1
+        l=0
+        h=n-1
+        while l<=h:
+            m=(l+h)//2
+            if arr[l]<=arr[m]:
+                if arr[l]<ans:
+                    ans=arr[l]
+                    index=l
+                l=m+1
+            elif arr[m]<=arr[h]:
+                if arr[m]<ans:
+                    ans=arr[m]
+                    index=m
+                h=m-1
+        return index
