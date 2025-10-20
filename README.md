@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shruthireddy-1505/October-25-/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shruthireddy-1505/October-25-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shruthireddy-1505/October-25-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0374-guess-number-higher-or-lower](https://github.com/shruthireddy-1505/October-25-/tree/master/0374-guess-number-higher-or-lower) |
 | [0907-koko-eating-bananas](https://github.com/shruthireddy-1505/October-25-/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/shruthireddy-1505/October-25-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 ## Math
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-running-sum-of-1d-array](https://github.com/shruthireddy-1505/October-25-/tree/master/1603-running-sum-of-1d-array) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/shruthireddy-1505/October-25-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
