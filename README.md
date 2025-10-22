@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shruthireddy-1505/October-25-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shruthireddy-1505/October-25-/tree/master/0344-reverse-string) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/shruthireddy-1505/October-25-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
@@ -48,5 +49,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shruthireddy-1505/October-25-/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shruthireddy-1505/October-25-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
